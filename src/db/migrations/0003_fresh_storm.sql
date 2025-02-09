@@ -1,0 +1,1 @@
+ALTER TABLE "customers" ALTER COLUMN "provincia" SET DATA TYPE varchar;
